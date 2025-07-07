@@ -5,8 +5,8 @@ public class Main {
         System.out.println("Hallo Женя!");
         System.out.print(1);
         System.out.println(3);
-        System.out.println(5);
-        System.out.print(4);
+        System.out.println("Рома");
+        System.out.print("спасибо!");
 
     }
 }
